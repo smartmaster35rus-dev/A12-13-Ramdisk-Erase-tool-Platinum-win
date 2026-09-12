@@ -6,7 +6,7 @@
 
 [![Latest release](https://img.shields.io/github/v/release/smartmaster35rus-dev/A12-13-Ramdisk-Erase-tool-Platinum-win?label=Windows&style=for-the-badge)](https://github.com/smartmaster35rus-dev/A12-13-Ramdisk-Erase-tool-Platinum-win/releases/latest)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-blue?style=for-the-badge&logo=windows)](https://github.com/smartmaster35rus-dev/A12-13-Ramdisk-Erase-tool-Platinum-win/releases)
-[![Website](https://img.shields.io/badge/Site-smartmaster35rus.ru-00c853?style=for-the-badge)](https://smartmaster35rus-activator.ru/compatible.php)
+[![Website](https://img.shields.io/badge/Site-smartmaster35rus.ru-00c853?style=for-the-badge)](https://smartmaster35rus.ru/)
 
 <img src="docs/screenshots/banner.png" alt="A12-A13 Ramdisk Erase Platinum" width="420"/>
 
