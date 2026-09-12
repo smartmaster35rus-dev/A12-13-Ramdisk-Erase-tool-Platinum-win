@@ -6,11 +6,11 @@
 
 [![Latest release](https://img.shields.io/github/v/release/smartmaster35rus-dev/A12-13-Ramdisk-Erase-tool-Platinum-win?label=Windows&style=for-the-badge)](https://github.com/smartmaster35rus-dev/A12-13-Ramdisk-Erase-tool-Platinum-win/releases/latest)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-blue?style=for-the-badge&logo=windows)](https://github.com/smartmaster35rus-dev/A12-13-Ramdisk-Erase-tool-Platinum-win/releases)
-[![Website](https://img.shields.io/badge/Site-smartmaster35rus.ru-00c853?style=for-the-badge)](https://smartmaster35rus-activator.ru/)
+[![Website](https://img.shields.io/badge/Site-smartmaster35rus.ru-00c853?style=for-the-badge)](https://smartmaster35rus-activator.ru/compatible.php)
 
 <img src="docs/screenshots/banner.png" alt="A12-A13 Ramdisk Erase Platinum" width="420"/>
 
-[⬇️ Download latest release](https://github.com/smartmaster35rus-dev/A12-13-Ramdisk-Erase-tool-Platinum-win/releases/latest) · [📋 Supported models](https://github.com/smartmaster35rus-dev/ramdisk-A12-13) · [🌐 Activator site](https://smartmaster35rus-activator.ru/)
+[⬇️ Download latest release](https://github.com/smartmaster35rus-dev/A12-13-Ramdisk-Erase-tool-Platinum-win/releases/latest) · [📋 Supported models](https://github.com/smartmaster35rus-dev/ramdisk-A12-13) · [🌐 Activator site](https://smartmaster35rus-activator.ru/compatible.php)
 
 </div>
 
@@ -91,7 +91,7 @@ Go to **[Releases](https://github.com/smartmaster35rus-dev/A12-13-Ramdisk-Erase-
 | Resource | URL |
 |----------|-----|
 | Ramdisk images | [smartmaster35rus-dev/ramdisk-A12-13](https://github.com/smartmaster35rus-dev/ramdisk-A12-13) |
-| Activator / support | [smartmaster35rus-activator.ru](https://smartmaster35rus-activator.ru/) |
+| Activator / support | [smartmaster35rus-activator.ru](https://smartmaster35rus-activator.ru/compatible.php) |
 | macOS build | [A12-13-Ramdisk-Erase-tool-Platinum-mac](https://github.com/smartmaster35rus-dev/A12-13-Ramdisk-Erase-tool-Platinum-mac/releases) |
 
 ---
@@ -113,6 +113,6 @@ This tool is intended for **authorized service and research** on devices you own
 
 <div align="center">
 
-**SmartMaster35Rus** · [smartmaster35rus.ru](https://smartmaster35rus-activator.ru/)
+**SmartMaster35Rus** · [smartmaster35rus.ru](https://smartmaster35rus-activator.ru/compatible.php)
 
 </div>
